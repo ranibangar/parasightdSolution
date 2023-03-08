@@ -1,0 +1,174 @@
+ul li a:hover {
+    border-bottom: 1px solid red;
+}
+
+.innovativecard {
+    border: 2px dashed red;
+    border-radius: 15px;
+}
+
+.body {
+    border-radius: 15px;
+}
+
+.feature {
+    border-radius: 15px;
+    background-color: white;
+
+}
+
+.btn1:hover {
+    background-color: rgb(206, 127, 17);
+}
+
+.nav-btn {
+    border-radius: 15px;
+    margin-left: 30px;
+}
+
+.navbar-one {
+    background-color: #d7b57a;
+    height: 40px;
+    cursor: pointer;
+}
+
+
+.navbar {
+    border-bottom: 0.5px solid rgb(240, 214, 178);
+    margin-bottom: 25px;
+}
+
+.explore-more-btn {
+    border-radius: 15px;
+}
+
+.section3-container {
+    background-color: rgb(227, 214, 251);
+}
+
+.card1 {
+    border: 2px solid rgb(206, 127, 17);
+    ;
+}
+
+.card2 {
+    border: 2px solid rgb(12, 225, 76);
+}
+
+.card-3 {
+    border: 2px solid rgb(206, 127, 17);
+    ;
+
+}
+
+.card-demo1 {
+    background-color: rgb(184, 158, 236);
+
+}
+
+.card-demo2 {
+    background-color: rgb(75, 21, 182);
+
+}
+
+.card-demo3 {
+    background-color: rgb(184, 158, 236);
+
+}
+
+.container1 {
+    background-color: rgb(25, 13, 50);
+    border-radius: 10px;
+
+}
+
+.activites {
+    background: linear-gradient(to right, #f1d097, #f1dcc3, #ede0d2, #f8f0e6);
+}
+
+.home {
+    background: linear-gradient(to bottom, #f4ecde, #f4c995);
+}
+
+.rightbtn {
+    background-color: rgb(237, 127, 9);
+    border: 0px;
+    border: none;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.email a {
+    background-color: rgb(248, 142, 3);
+    border-radius: 50%;
+}
+
+.call a {
+    background-color: rgb(248, 142, 3);
+    border-radius: 52%;
+}
+
+.cardfooter {
+    height: 60px;
+}
+
+.footer1 {
+    border-radius: 10px;
+    background-color: rgb(44, 48, 79);
+    height: 80px;
+}
+
+.footer {
+    background-color: rgb(44, 48, 79);
+}
+
+.circle {
+    background-color: rgb(248, 142, 3);
+    border-radius: 70%;
+}
+
+.image1 {
+    border: 1px dashed red;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+.exp{
+    height: 480px;
+    margin-top: 10px
+}
+
+
+.srvc{
+    height: 500px;
+}
+
+
+.footer-main-secion {
+    margin-top: 60px;
+    background-color: #fff;
+}
+
+.footer-secion {
+    background: linear-gradient(rgba(22, 11, 61, 0.662), rgba(45, 29, 139, 0.695)), url(/parasightdSolution/assets/images/building.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 360px;
+    border-top-right-radius: 200px;
+}
+
+.logo-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.icon{
+    border-radius: 10px;
+}
